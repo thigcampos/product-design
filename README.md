@@ -16,7 +16,7 @@ Esse repositório tem como objetivo apresentar conceitos ligados à Interface de
 8. Cores Quentes
 9. Cores Frias
 10. Cores Neutras
-11. [Tipografia](./user-interface/Typography.md)
+11. [Tipografia](./user-interface/typography.md)
 12. Protótipos
 13. Icones
 14. Grids e Alinhamento
