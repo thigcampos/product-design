@@ -20,7 +20,7 @@ A font's weight determines how thick or thin characters are displayed. Using dif
 
 ## Type Anatomy
 
-![Anatomy.jpg](Basic%20Typography%20d89fd02b853a43dba47bfaffbb4b2374/Anatomy.jpg)
+![Anatomy.jpg](../images/typography/Anatomy.jpg)
 
 ### Ascender
 
@@ -42,23 +42,23 @@ There are basically 5 main typeface categories, Serif, Sans Serif, Script, Displ
 
 Serif is a typeface with small decorative edges at the ends of the letters. They have a more traditional and sophisticated look.
 
-![Vogue-logo.png](Basic%20Typography%20d89fd02b853a43dba47bfaffbb4b2374/Vogue-logo.png)
+![Vogue-logo.png](../images/typography/Vogue-logo.png)
 
 ### Sans Serif
 
 Sans Serif is a geometric typeface with no decorative details at the end of the letters. They have a modern and minimalist look. Its normally used by tech companies, like Google and Facebook.
 
-![brands-sans-serif-fonts.png](Basic%20Typography%20d89fd02b853a43dba47bfaffbb4b2374/brands-sans-serif-fonts.png)
+![brands-sans-serif-fonts.png](../images/typography/brands-sans-serif-fonts.png)
 
 In recent years, a number of high-profile companies have been changing their logos to appear more modern and accessible, shifting from Serif typefaces to Sans Serif. Google and HSBC are great examples of brands that abandoned Serif.
 
-![hsbc_logo_before_after.png](Basic%20Typography%20d89fd02b853a43dba47bfaffbb4b2374/hsbc_logo_before_after.png)
+![hsbc_logo_before_after.png](../images/typography/hsbc_logo_before_after.png)
 
 ### **Script**
 
 A script font mimics the stroke of a paintbrush, often linking letters together. Script typefaces create a dynamic and interesting pairing when combined with a sans serif.
 
-![Untitled](Basic%20Typography%20d89fd02b853a43dba47bfaffbb4b2374/Untitled.png)
+![Untitled](../images/typography/Untitled.png)
 
 ## References
 
