@@ -1,4 +1,4 @@
-# Warm colors meanings
+# Warm colors
 
 _Warning: This a study report, all the articles used as basis are linked at the end._
 
