@@ -1,3 +1,7 @@
+# Cool colors meanings
+
+_Warning: This a study report, all the articles used as basis are linked at the end._
+
 ## Green - the color of harmony and health
 
 Green is universally associated with **nature**, linked as it is to grass, plants and trees. It represents hope, luck and renewal. Green is also associated with money and so represents **prosperity** and **stability**.
