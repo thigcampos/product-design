@@ -18,7 +18,7 @@ Traditionally, the primary colors used in subtractive process were red, yellow a
 
 ### Color wheel
 
-[https://media-exp1.licdn.com/dms/image/C4D12AQFz4ZjzYZzFbw/article-inline_image-shrink_1000_1488/0/1634755454489?e=1643241600&v=beta&t=QCvGgHcEwpBQz55_08qriG5lqbFew4D0aJC9VyEoz8c](https://media-exp1.licdn.com/dms/image/C4D12AQFz4ZjzYZzFbw/article-inline_image-shrink_1000_1488/0/1634755454489?e=1643241600&v=beta&t=QCvGgHcEwpBQz55_08qriG5lqbFew4D0aJC9VyEoz8c)
+![Color Wheel](../images/color-theory/color-wheel.png)
 
 The color wheel consists of three **primary colors** (red, yellow, blue), three **secondary colors** (colors created when primary colors are mixed: green, orange, purple) and six **tertiary colors** (colors made from primary and secondary colors, such as blue-green or red-violet).
 
